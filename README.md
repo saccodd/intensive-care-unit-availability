@@ -7,8 +7,8 @@ Currently, ICU data lies in different country-specific sources and in a wide ran
 Given current COVID-19 crisis, we believe that this information should be provided with a common structure to enable easy processing, and opened to the public for research and analysis.
 
 Available countries:
-* Italy (as of 2018)
-* Germany (updated daily)
+* Italy (as of 2018 - source: [salute.gov.it](http://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=96))
+* Germany (coming soon)
 
 # Data model
 
