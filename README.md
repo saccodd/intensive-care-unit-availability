@@ -15,8 +15,8 @@ Available countries:
 Datasets can be found in [/data](https://github.com/saccodd/intensive-care-unit-availability/tree/master/data) and are organised by country.
 
 Glossary:
-* *ICU low care* = monitoring, non-invasive ventilation (NIV), no organ replacement therapy
-* *ICU high care* = monitoring, invasive ventilation, organ replacement therapy. Complete intensive medical therapy options
+* *Low Care ICU* = monitoring, non-invasive ventilation (NIV), no organ replacement therapy
+* *High Care ICU* = monitoring, invasive ventilation, organ replacement therapy. Complete intensive medical therapy options
 * *ECMO* = additional extracorporeal membrane oxygenation
 
 Field description:
