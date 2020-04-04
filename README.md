@@ -1,10 +1,10 @@
 # Description
 
-This initiative intends to build a unique repository where to find consistent datasets about Intensive Care Units (ICUs) and their availability by country and region.
+Our initiative is to build a unique and integrated dataset on Intensive Care Units (ICUs) and their availability by country and region, using a data model that is consistent across countries.
 
-Currently, ICU data is stored in different country-specific sources, and accessed in a wide range of formats (websites, APIs, excel or csv files, etc.)
+Currently, ICU data is stored in different country-specific sources, and accessed through a wide range of formats (websites, APIs, excel or csv files, etc.)
 
-Given current COVID-19 crisis, we believe that this information should be provided with a common structure to enable easy processing, and opened to the public for research and analysis.
+Given current COVID-19 crisis, we believe that this information should be provided with a common structure to enable easy processing, and open to the public for research and analysis.
 
 Available countries:
 * Italy (as of 2018 - source: [salute.gov.it](http://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=96))
