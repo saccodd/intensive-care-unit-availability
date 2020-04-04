@@ -10,7 +10,7 @@ Available countries:
 * Italy (as of 2018 - source: [salute.gov.it](http://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=96))
 * Germany (coming soon)
 
-## Data model
+### Data model
 
 Datasets can be found in [/data](https://github.com/saccodd/intensive-care-unit-availability/tree/master/data) and are organised by country.
 
