@@ -1,0 +1,29 @@
+regionCode,Projected_Available_ICUs,region,icuTotal,lastUpdated
+WA01,,Betsi Cadwaladr University Health Board,30.9,1586110884
+WA02,,Powys Teaching Health Board,0,1586110884
+WA03,,Hywel Dda University Health Board,26.3,1586110884
+WA04,,Aneurin Bevan University Health Board,23,1586110884
+WA05,,Cardiff and Vale University Health Board,53,1586110884
+WA06,,Abertawe Bro Morgannwg University Health Board,8,1586110884
+WA07,,Cwm Taf University Health Board,12,1586110884
+WA08,,Velindre NHS Trust,0,1586110884
+SC01,17.8,Grampian,17.8,1586110884
+SC02,17.8,Argyll & Clyde,17.8,1586110884
+SC03,26.7,Lanarkshire,26.7,1586110884
+SC04,20.0,Ayrshire & Arran,20.0,1586110884
+SC05,11.1,Highland,11.1,1586110884
+SC06,22.3,Tayside,22.3,1586110884
+SC07,8.9,Dumfries,8.9,1586110884
+SC08,46.8,Lothian Health,46.8,1586110884
+SC09,21.2,Fife,21.2,1586110884
+SC10,55.7,GGHB,55.7,1586110884
+SC11,6.7,Borders,6.7,1586110884
+SC12,20.0,Forth Valley,20.0,1586110884
+NI01,,Northern Ireland,100,1586110884
+EN01,,East Of England Commissioning Region,373,1586110884
+EN02,,London Commissioning Region,1034,1586110884
+EN03,,Midlands Commissioning Region,682,1586110884
+EN04,,North East And Yorkshire Commissioning Region,660,1586110884
+EN05,,North West Commissioning Region,543,1586110884
+EN06,,South East Commissioning Region,522,1586110884
+EN07,,South West Commissioning Region,309,1586110884
