@@ -25,16 +25,17 @@ Field description:
 * **region** - name of the region within the country
 * **icuTotal** - ICU capacity in the region, i.e. total number of ICU beds
 * **lastUpdate** - last update of the dataset on our GitHub repository
-* **icuLowCareFree** (if available) - Low Care ICU availability
-* **icuLowCareUsed** (if available) - Low Care ICU occupancy
-* **icuLowCareFreeIn24H** (if available) - Low Care ICUs that will be freed in the next 24 hours
-* **icuHighCareFree** (if available) - High Care ICU availability
-* **icuHighCareUsed** (if available) - High Care ICU occupancy
-* **icuHighCareFreeIn24H** (if available) - High Care ICUs that will be freed in the next 24 hours
-* **icuEcmoFree** (if available) - ECMO availability
-* **icuEcmoUsed** (if available) - ECMO care occupancy
-* **icuEcmoFreeIn24H** (if available) - ECMOs that will be freed in the next 24 hours
-* **ecmoCasesPerYear** (if available) - average number of ECMO cases per year
-* **icuOccupancyRate** (if available) - average occupancy of ICUs
-* **adultPopulation** (if available) - adult population in the region
-* **over65Population** (if available) - 65+ population in the region
+If available:
+* **icuLowCareFree** - Low Care ICU availability
+* **icuLowCareUsed** - Low Care ICU occupancy
+* **icuLowCareFreeIn24H** - Low Care ICUs that will be freed in the next 24 hours
+* **icuHighCareFree** - High Care ICU availability
+* **icuHighCareUsed** - High Care ICU occupancy
+* **icuHighCareFreeIn24H** - High Care ICUs that will be freed in the next 24 hours
+* **icuEcmoFree** - ECMO availability
+* **icuEcmoUsed** - ECMO care occupancy
+* **icuEcmoFreeIn24H** - ECMOs that will be freed in the next 24 hours
+* **ecmoCasesPerYear** - average number of ECMO cases per year
+* **icuOccupancyRate** - average occupancy of ICUs
+* **adultPopulation** - adult population in the region
+* **over65Population** - 65+ population in the region
