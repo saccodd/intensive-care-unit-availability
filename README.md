@@ -25,6 +25,7 @@ Field description:
 * **region** - name of the region within the country
 * **icuTotal** - ICU capacity in the region, i.e. total number of ICU beds
 * **lastUpdate** - last update of the dataset on our GitHub repository
+
 If available:
 * **icuLowCareFree** - Low Care ICU availability
 * **icuLowCareUsed** - Low Care ICU occupancy
