@@ -1,6 +1,6 @@
 # Description
 
-The purpose of this initiative is to build an integrated dataset on Intensive Care Units (ICUs) and their availability by country and region, using a data model standardized across countries.
+The purpose of this initiative is to build an integrated dataset on Intensive Care Units (ICUs) and their availability by country and region (at the highest granularity provided by the sources), using a data model standardized across countries.
 
 Currently, ICU data is stored in different country-specific sources, and accessed through a wide range of formats (websites, APIs, excel or csv files, etc.)
 
