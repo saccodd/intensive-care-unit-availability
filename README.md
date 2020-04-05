@@ -46,7 +46,7 @@ If available:
 ### Countries and sources:
 - Italy (as of 2018 - source: [Ministero della Salute](http://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=96))
 - United Kingdom
-  - England (as of 2020 - source: [NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/critical-care-capacity/critical-care-bed-capacity-and-urgent-operations-cancelled-2019-20-data/)
+  - England (as of 2020 - source: [NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/critical-care-capacity/critical-care-bed-capacity-and-urgent-operations-cancelled-2019-20-data/))
   - Wales (as of 2019 - source: [StatsWales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Activity/NHS-Beds/nhsbeds-by-organisation-site))
   - Scotland (as of 1998, projected on 2020 whole figure - sources: [Scottish Health Directorate](https://www.sehd.scot.nhs.uk/publications/report.PDF) & [Herald Scotland](https://www.heraldscotland.com/news/18295827.coronavirus-scotland-needs-double-intensive-care-beds-says-freeman/))
   - Northern Ireland (as of 2020, w/o sub-area granularity - source: [Derry Journal](https://www.derryjournal.com/health/coronavirus-ni-all-100-critical-care-beds-northern-ireland-could-be-used-fight-covid-19-2048283))
