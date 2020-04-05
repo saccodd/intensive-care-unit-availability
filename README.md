@@ -2,7 +2,7 @@
 
 The purpose of this initiative is to build an integrated dataset on Intensive Care Units (ICUs) and their availability by country and region (at the highest regional granularity provided by the sources), using a data model standardized across countries.
 
-Currently, ICU data is stored in different country-specific sources, and accessed through a wide range of formats (websites, APIs, excel or csv files, etc.)
+Currently, ICU data is stored in different country-specific sources, with a wide range of access points (national websites, APIs, excel or csv files, etc.)
 
 Given current COVID-19 crisis, we believe that this information should be provided with the following: 
 * common standardized structure
