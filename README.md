@@ -7,7 +7,8 @@ Currently, ICU data is stored in different country-specific sources, and accesse
 Given current COVID-19 crisis, we believe that this information should be provided with a common structure to enable easy processing, and open to the public for research and analysis.
 
 Available countries:
-* Italy (as of 2018 - source: [salute.gov.it](http://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=96))
+* Italy (as of 2018 - source: [Ministero della Salute](http://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=96))
+* US (as of 2018 - source: [Harvard Global Health Institute](https://globalepidemics.org/our-data/hospital-capacity/))
 * Germany (coming soon)
 
 ### Data model
@@ -20,7 +21,10 @@ Glossary:
 * *ECMO* = additional extracorporeal membrane oxygenation
 
 Field description:
+* **regionCode** - code of the region within the country
 * **region** - name of the region within the country
+* **icuTotal** - ICU capacity in the region, i.e. total number of ICU beds
+* **lastUpdate** - last update of the dataset on our GitHub repository
 * **icuLowCareFree** (if available) - Low Care ICU availability
 * **icuLowCareUsed** (if available) - Low Care ICU occupancy
 * **icuLowCareFreeIn24H** (if available) - Low Care ICUs that will be freed in the next 24 hours
@@ -30,5 +34,7 @@ Field description:
 * **icuEcmoFree** (if available) - ECMO availability
 * **icuEcmoUsed** (if available) - ECMO care occupancy
 * **icuEcmoFreeIn24H** (if available) - ECMOs that will be freed in the next 24 hours
-* **ecmoCasesPerYear** (if available) - stats on number of ECMO cases a year
-* **icuTotal** - ICU capacity in the region, i.e. total number of ICU beds
+* **ecmoCasesPerYear** (if available) - average number of ECMO cases per year
+* **icuOccupancyRate** (if available) - average occupancy of ICUs
+* **adultPopulation** (if available) - adult population in the region
+* **over65Population** (if available) - 65+ population in the region
