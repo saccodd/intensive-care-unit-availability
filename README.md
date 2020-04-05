@@ -4,7 +4,12 @@ The purpose of this initiative is to build an integrated dataset on Intensive Ca
 
 Currently, ICU data is stored in different country-specific sources, and accessed through a wide range of formats (websites, APIs, excel or csv files, etc.)
 
-Given current COVID-19 crisis, we believe that this information should be provided with a common structure to enable easy processing, and open to the public for research and analysis.
+Given current COVID-19 crisis, we believe that this information should be provided with the following: 
+* common standardized structure
+* single point of access
+* open to the public 
+
+We hope that these datasets will further benefit research and analysis, and help us in the fight against COVID-19.
 
 
 ### Data model
