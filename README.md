@@ -52,4 +52,4 @@ If available:
   - Northern Ireland (as of 2020, w/o sub-area granularity - source: [Derry Journal](https://www.derryjournal.com/health/coronavirus-ni-all-100-critical-care-beds-northern-ireland-could-be-used-fight-covid-19-2048283))
 - US (as of 2018 - source: [Harvard Global Health Institute](https://globalepidemics.org/our-data/hospital-capacity/))
 - Spain (as of 2013 - source: [Medicina Intensiva](https://www.medintensiva.org/en-pdf-S2173572713000878))
-- Germany (coming soon)
+- Germany (updated daily, not complete - source [DIVI Intensiv Register](https://www.intensivregister.de/#/intensivregister))
