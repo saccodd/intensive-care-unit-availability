@@ -44,7 +44,7 @@ If available:
 * **over65Population** - 65+ population in the region
 
 ### Countries and sources:
-- Italy (as of 2018 - source: [Ministero della Salute](http://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=96))
+- Italy (as of 2019 - source: [Ministero della Salute](http://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=96))
 - United Kingdom
   - England (as of 2020 - source: [NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/critical-care-capacity/critical-care-bed-capacity-and-urgent-operations-cancelled-2019-20-data/))
   - Wales (as of 2019 - source: [StatsWales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Activity/NHS-Beds/nhsbeds-by-organisation-site))
