@@ -9,7 +9,11 @@ Given current COVID-19 crisis, we believe that this information should be provid
 * single point of access
 * open to the public 
 
-We hope that these datasets will further benefit research and analysis, and help us in the fight against COVID-19.
+We hope that these datasets will further benefit research and analysis, and help us in the fight against COVID-19. E.g. data can be used for:
+* *monitoring of areas at capacity* (e.g. [VoiceToData dashboard for Italy](https://www.voicetodata.com) ) 
+* *hospital capacity planning*
+* *trend forecasting*
+* *YOUR IDEA* - get in touch with us!
 
 
 ### Data model
