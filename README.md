@@ -53,8 +53,8 @@ If available:
 - US (as of 2018 - source: [Harvard Global Health Institute](https://globalepidemics.org/our-data/hospital-capacity/))
 - Spain (as of 2013 - source: [Medicina Intensiva](https://www.medintensiva.org/en-pdf-S2173572713000878))
 - Germany 
- - Static dataset (as of 2017 - [Gesundheitsberichterstattung Des Bundes](http://www.gbe-bund.de/oowa921-install/servlet/oowa/aw92/dboowasys921.xwdevkit/xwd_init?gbe.isgbetol/xs_start_neu/&p_aid=i&p_aid=17903021&nummer=841&p_sprache=D&p_indsp=-&p_aid=81784396))
- - Live dataset (not covering all hospitals, pipeline broken to be fixed - source [DIVI Intensiv Register](https://www.intensivregister.de/#/intensivregister))
+  - static dataset (as of 2017 - [Gesundheitsberichterstattung Des Bundes](http://www.gbe-bund.de/oowa921-install/servlet/oowa/aw92/dboowasys921.xwdevkit/xwd_init?gbe.isgbetol/xs_start_neu/&p_aid=i&p_aid=17903021&nummer=841&p_sprache=D&p_indsp=-&p_aid=81784396))
+  - live dataset (not covering all hospitals, pipeline broken to be fixed - source [DIVI Intensiv Register](https://www.intensivregister.de/#/intensivregister))
 - France (as of 2018 - [Ministère des Solidarités et de la Santé](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/article/nombre-de-lits-de-reanimation-de-soins-intensifs-et-de-soins-continus-en-france))
 - Austria (as of 2018 - [Statistik Austria](https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/gesundheit/gesundheitsversorgung/einrichtungen_im_gesundheitswesen/index.html))
 - Portugal (as of 2016 - [Ministério da Saúde](https://www.sns.gov.pt/wp-content/uploads/2016/05/Avalia%C3%A7%C3%A3o-nacional-da-situa%C3%A7%C3%A3o-das-unidades-de-cuidados-intensivos.pdf))
