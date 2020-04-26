@@ -39,8 +39,9 @@ If available:
 * **icuEcmoFreeIn24H** - ECMOs that will be freed in the next 24 hours
 * **ecmoCasesPerYear** - average number of ECMO cases per year
 * **icuOccupancyRate** - average occupancy of ICUs
+* **hospitalTotal** - number of hospitals in the region
 * **population** - population in the region
-* **adultPopulation** - adult population in the region
+* **adultPopulation** - adult (18+) population in the region
 * **over65Population** - 65+ population in the region
 
 ### Countries and sources:
